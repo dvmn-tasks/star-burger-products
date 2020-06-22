@@ -13,3 +13,7 @@
 Код написан в учебных целях — это урок в курсе по Python и веб-разработке на сайте [Devman](https://dvmn.org).
 
 Тестовые данные взяты с сайта [BLACK STAR BURGER](https://blackstarburger.ru/).
+
+Где используется репозиторий:
+
+- Второй и третий урок [учебного модуля Django](https://dvmn.org/modules/django/)
