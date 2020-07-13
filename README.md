@@ -12,4 +12,4 @@
 
 Код написан в учебных целях — это урок в курсе по Python и веб-разработке на сайте [Devman](https://dvmn.org).
 
-Тестовые данные взяты с сайта [BLACK STAR BURGER](https://blackstarburger.ru/).
+Тестовые данные взяты с сайта [BLACK STAR BURGER](https://blackstarburger.ru/) и [BURGER KING](https://www.delivery-club.ru/srv/Burger_King_grval?vendorCategoriesQuery=300133341).
