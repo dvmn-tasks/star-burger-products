@@ -16,4 +16,4 @@
 
 Где используется репозиторий:
 
-- Второй и третий урок [учебного модуля Django](https://dvmn.org/modules/django/)
+- Второй и третий урок [учебного курса Django](https://dvmn.org/modules/django/)
